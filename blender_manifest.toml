@@ -1,0 +1,15 @@
+schema_version = "1.0.0"
+
+id = "monkeframes_mocap"
+version = "1.0.0"
+name = "MonkeFrames Mocap"
+tagline = "Import MonkeFrames .mfmc motion capture files onto embedded Gorilla Tag rigs"
+maintainer = "MonkeFrames Team"
+type = "add-on"
+
+tags = ["Animation", "Import-Export"]
+
+blender_version_min = "4.2.0"
+license = [
+    "SPDX:GPL-2.0-or-later",
+]
